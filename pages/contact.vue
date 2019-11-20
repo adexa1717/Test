@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <yandex-map
-                    :coords="[54.62896654088406, 39.731893822753904]"
+                    :coords="[43.2601815, 76.9325566]"
                     zoom="10"
                     style="width: 600px; height: 600px;"
                     :behaviors="['ruler']"
